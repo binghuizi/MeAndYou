@@ -1,0 +1,427 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7A62D8081C033CD3003CFF7E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A62D8071C033CD3003CFF7E /* main.m */; };
+		7A62D80B1C033CD3003CFF7E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A62D80A1C033CD3003CFF7E /* AppDelegate.m */; };
+		7A62D80D1C033CD3003CFF7E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A62D80C1C033CD3003CFF7E /* Images.xcassets */; };
+		7A62D8101C033CD3003CFF7E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7A62D80E1C033CD3003CFF7E /* LaunchScreen.xib */; };
+		7A62D81C1C033CD3003CFF7E /* LianXi4TouchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A62D81B1C033CD3003CFF7E /* LianXi4TouchTests.m */; };
+		7A62D8271C033CFA003CFF7E /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A62D8261C033CFA003CFF7E /* MainViewController.m */; };
+		7A62D82A1C033D55003CFF7E /* ManggoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A62D8291C033D55003CFF7E /* ManggoView.m */; };
+		7A62D82C1C034161003CFF7E /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7A62D82B1C034161003CFF7E /* 3.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7A62D8161C033CD3003CFF7E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7A62D7FA1C033CD2003CFF7E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7A62D8011C033CD3003CFF7E;
+			remoteInfo = LianXi4Touch;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7A62D8021C033CD3003CFF7E /* LianXi4Touch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LianXi4Touch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A62D8061C033CD3003CFF7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A62D8071C033CD3003CFF7E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7A62D8091C033CD3003CFF7E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		7A62D80A1C033CD3003CFF7E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		7A62D80C1C033CD3003CFF7E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		7A62D80F1C033CD3003CFF7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		7A62D8151C033CD3003CFF7E /* LianXi4TouchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LianXi4TouchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A62D81A1C033CD3003CFF7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A62D81B1C033CD3003CFF7E /* LianXi4TouchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LianXi4TouchTests.m; sourceTree = "<group>"; };
+		7A62D8251C033CFA003CFF7E /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		7A62D8261C033CFA003CFF7E /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		7A62D8281C033D55003CFF7E /* ManggoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManggoView.h; sourceTree = "<group>"; };
+		7A62D8291C033D55003CFF7E /* ManggoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManggoView.m; sourceTree = "<group>"; };
+		7A62D82B1C034161003CFF7E /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7A62D7FF1C033CD3003CFF7E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A62D8121C033CD3003CFF7E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7A62D7F91C033CD2003CFF7E = {
+			isa = PBXGroup;
+			children = (
+				7A62D8041C033CD3003CFF7E /* LianXi4Touch */,
+				7A62D8181C033CD3003CFF7E /* LianXi4TouchTests */,
+				7A62D8031C033CD3003CFF7E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7A62D8031C033CD3003CFF7E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7A62D8021C033CD3003CFF7E /* LianXi4Touch.app */,
+				7A62D8151C033CD3003CFF7E /* LianXi4TouchTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7A62D8041C033CD3003CFF7E /* LianXi4Touch */ = {
+			isa = PBXGroup;
+			children = (
+				7A62D82B1C034161003CFF7E /* 3.jpg */,
+				7A62D8091C033CD3003CFF7E /* AppDelegate.h */,
+				7A62D80A1C033CD3003CFF7E /* AppDelegate.m */,
+				7A62D8281C033D55003CFF7E /* ManggoView.h */,
+				7A62D8291C033D55003CFF7E /* ManggoView.m */,
+				7A62D8251C033CFA003CFF7E /* MainViewController.h */,
+				7A62D8261C033CFA003CFF7E /* MainViewController.m */,
+				7A62D80C1C033CD3003CFF7E /* Images.xcassets */,
+				7A62D80E1C033CD3003CFF7E /* LaunchScreen.xib */,
+				7A62D8051C033CD3003CFF7E /* Supporting Files */,
+			);
+			path = LianXi4Touch;
+			sourceTree = "<group>";
+		};
+		7A62D8051C033CD3003CFF7E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7A62D8061C033CD3003CFF7E /* Info.plist */,
+				7A62D8071C033CD3003CFF7E /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7A62D8181C033CD3003CFF7E /* LianXi4TouchTests */ = {
+			isa = PBXGroup;
+			children = (
+				7A62D81B1C033CD3003CFF7E /* LianXi4TouchTests.m */,
+				7A62D8191C033CD3003CFF7E /* Supporting Files */,
+			);
+			path = LianXi4TouchTests;
+			sourceTree = "<group>";
+		};
+		7A62D8191C033CD3003CFF7E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7A62D81A1C033CD3003CFF7E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7A62D8011C033CD3003CFF7E /* LianXi4Touch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7A62D81F1C033CD3003CFF7E /* Build configuration list for PBXNativeTarget "LianXi4Touch" */;
+			buildPhases = (
+				7A62D7FE1C033CD3003CFF7E /* Sources */,
+				7A62D7FF1C033CD3003CFF7E /* Frameworks */,
+				7A62D8001C033CD3003CFF7E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LianXi4Touch;
+			productName = LianXi4Touch;
+			productReference = 7A62D8021C033CD3003CFF7E /* LianXi4Touch.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7A62D8141C033CD3003CFF7E /* LianXi4TouchTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7A62D8221C033CD3003CFF7E /* Build configuration list for PBXNativeTarget "LianXi4TouchTests" */;
+			buildPhases = (
+				7A62D8111C033CD3003CFF7E /* Sources */,
+				7A62D8121C033CD3003CFF7E /* Frameworks */,
+				7A62D8131C033CD3003CFF7E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7A62D8171C033CD3003CFF7E /* PBXTargetDependency */,
+			);
+			name = LianXi4TouchTests;
+			productName = LianXi4TouchTests;
+			productReference = 7A62D8151C033CD3003CFF7E /* LianXi4TouchTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7A62D7FA1C033CD2003CFF7E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "芒果iOS";
+				TargetAttributes = {
+					7A62D8011C033CD3003CFF7E = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					7A62D8141C033CD3003CFF7E = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = 7A62D8011C033CD3003CFF7E;
+					};
+				};
+			};
+			buildConfigurationList = 7A62D7FD1C033CD2003CFF7E /* Build configuration list for PBXProject "LianXi4Touch" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7A62D7F91C033CD2003CFF7E;
+			productRefGroup = 7A62D8031C033CD3003CFF7E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7A62D8011C033CD3003CFF7E /* LianXi4Touch */,
+				7A62D8141C033CD3003CFF7E /* LianXi4TouchTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7A62D8001C033CD3003CFF7E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A62D82C1C034161003CFF7E /* 3.jpg in Resources */,
+				7A62D8101C033CD3003CFF7E /* LaunchScreen.xib in Resources */,
+				7A62D80D1C033CD3003CFF7E /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A62D8131C033CD3003CFF7E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7A62D7FE1C033CD3003CFF7E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A62D80B1C033CD3003CFF7E /* AppDelegate.m in Sources */,
+				7A62D8271C033CFA003CFF7E /* MainViewController.m in Sources */,
+				7A62D8081C033CD3003CFF7E /* main.m in Sources */,
+				7A62D82A1C033D55003CFF7E /* ManggoView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A62D8111C033CD3003CFF7E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A62D81C1C033CD3003CFF7E /* LianXi4TouchTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7A62D8171C033CD3003CFF7E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7A62D8011C033CD3003CFF7E /* LianXi4Touch */;
+			targetProxy = 7A62D8161C033CD3003CFF7E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		7A62D80E1C033CD3003CFF7E /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7A62D80F1C033CD3003CFF7E /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7A62D81D1C033CD3003CFF7E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		7A62D81E1C033CD3003CFF7E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7A62D8201C033CD3003CFF7E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				INFOPLIST_FILE = LianXi4Touch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7A62D8211C033CD3003CFF7E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				INFOPLIST_FILE = LianXi4Touch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		7A62D8231C033CD3003CFF7E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = LianXi4TouchTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LianXi4Touch.app/LianXi4Touch";
+			};
+			name = Debug;
+		};
+		7A62D8241C033CD3003CFF7E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = LianXi4TouchTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LianXi4Touch.app/LianXi4Touch";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7A62D7FD1C033CD2003CFF7E /* Build configuration list for PBXProject "LianXi4Touch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7A62D81D1C033CD3003CFF7E /* Debug */,
+				7A62D81E1C033CD3003CFF7E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7A62D81F1C033CD3003CFF7E /* Build configuration list for PBXNativeTarget "LianXi4Touch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7A62D8201C033CD3003CFF7E /* Debug */,
+				7A62D8211C033CD3003CFF7E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7A62D8221C033CD3003CFF7E /* Build configuration list for PBXNativeTarget "LianXi4TouchTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7A62D8231C033CD3003CFF7E /* Debug */,
+				7A62D8241C033CD3003CFF7E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7A62D7FA1C033CD2003CFF7E /* Project object */;
+}

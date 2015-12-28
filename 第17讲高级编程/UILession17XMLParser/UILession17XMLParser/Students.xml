@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student position = "班长">
+        <number>001</number>
+        <name>刘海艳</name>
+        <sex>女</sex>
+        <phone>18210255521</phone>
+    </student>
+    <student>
+        <number>002</number>
+        <name>张衡</name>
+        <sex>男</sex>
+        <phone>13838438666</phone>
+    </student>
+    <student>
+        <number>003</number>
+        <name>郭佳慧</name>
+        <sex>女</sex>
+        <phone>13966999080</phone>
+    </student>
+    <student position = "学习委员">
+        <number>004</number>
+        <name>王雪娟</name>
+        <sex>女</sex>
+        <phone>15217895252</phone>
+    </student>
+</students>

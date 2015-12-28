@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="14F27" minimumToolsVersion="Automatic">
+    <entity name="Teacher" representedClassName="Teacher" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="age" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="gander" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hobby" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <fetchRequest name="FetchRequest" entity="Teacher" predicateString="address CONTAINS &quot;&quot;"/>
+    <fetchRequest name="FetchRequest1" entity="Teacher"/>
+    <configuration name="Configuration"/>
+    <elements>
+        <element name="Teacher" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>

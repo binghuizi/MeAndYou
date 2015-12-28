@@ -1,0 +1,429 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7ADD32431C056843007A2D15 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADD32421C056843007A2D15 /* main.m */; };
+		7ADD32461C056843007A2D15 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADD32451C056843007A2D15 /* AppDelegate.m */; };
+		7ADD32481C056843007A2D15 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7ADD32471C056843007A2D15 /* Images.xcassets */; };
+		7ADD324B1C056843007A2D15 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7ADD32491C056843007A2D15 /* LaunchScreen.xib */; };
+		7ADD32571C056843007A2D15 /* UILessionUIGestureRecognizer5Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADD32561C056843007A2D15 /* UILessionUIGestureRecognizer5Tests.m */; };
+		7ADD32621C05685D007A2D15 /* MangoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADD32611C05685D007A2D15 /* MangoViewController.m */; };
+		7ADD32651C0568B3007A2D15 /* MangoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADD32641C0568B3007A2D15 /* MangoView.m */; };
+		7AF8C38D1C058BA200AD996D /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7AF8C38C1C058BA200AD996D /* 1.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7ADD32511C056843007A2D15 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7ADD32351C056843007A2D15 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7ADD323C1C056843007A2D15;
+			remoteInfo = UILessionUIGestureRecognizer5;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7ADD323D1C056843007A2D15 /* UILessionUIGestureRecognizer5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UILessionUIGestureRecognizer5.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ADD32411C056843007A2D15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7ADD32421C056843007A2D15 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7ADD32441C056843007A2D15 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		7ADD32451C056843007A2D15 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		7ADD32471C056843007A2D15 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		7ADD324A1C056843007A2D15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		7ADD32501C056843007A2D15 /* UILessionUIGestureRecognizer5Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UILessionUIGestureRecognizer5Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ADD32551C056843007A2D15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7ADD32561C056843007A2D15 /* UILessionUIGestureRecognizer5Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UILessionUIGestureRecognizer5Tests.m; sourceTree = "<group>"; };
+		7ADD32601C05685D007A2D15 /* MangoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MangoViewController.h; sourceTree = "<group>"; };
+		7ADD32611C05685D007A2D15 /* MangoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MangoViewController.m; sourceTree = "<group>"; };
+		7ADD32631C0568B3007A2D15 /* MangoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MangoView.h; sourceTree = "<group>"; };
+		7ADD32641C0568B3007A2D15 /* MangoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MangoView.m; sourceTree = "<group>"; };
+		7AF8C38C1C058BA200AD996D /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7ADD323A1C056843007A2D15 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7ADD324D1C056843007A2D15 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7ADD32341C056843007A2D15 = {
+			isa = PBXGroup;
+			children = (
+				7AF8C38C1C058BA200AD996D /* 1.jpg */,
+				7ADD32601C05685D007A2D15 /* MangoViewController.h */,
+				7ADD32611C05685D007A2D15 /* MangoViewController.m */,
+				7ADD323F1C056843007A2D15 /* UILessionUIGestureRecognizer5 */,
+				7ADD32531C056843007A2D15 /* UILessionUIGestureRecognizer5Tests */,
+				7ADD323E1C056843007A2D15 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7ADD323E1C056843007A2D15 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7ADD323D1C056843007A2D15 /* UILessionUIGestureRecognizer5.app */,
+				7ADD32501C056843007A2D15 /* UILessionUIGestureRecognizer5Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7ADD323F1C056843007A2D15 /* UILessionUIGestureRecognizer5 */ = {
+			isa = PBXGroup;
+			children = (
+				7ADD32441C056843007A2D15 /* AppDelegate.h */,
+				7ADD32451C056843007A2D15 /* AppDelegate.m */,
+				7ADD32631C0568B3007A2D15 /* MangoView.h */,
+				7ADD32641C0568B3007A2D15 /* MangoView.m */,
+				7ADD32471C056843007A2D15 /* Images.xcassets */,
+				7ADD32491C056843007A2D15 /* LaunchScreen.xib */,
+				7ADD32401C056843007A2D15 /* Supporting Files */,
+			);
+			path = UILessionUIGestureRecognizer5;
+			sourceTree = "<group>";
+		};
+		7ADD32401C056843007A2D15 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7ADD32411C056843007A2D15 /* Info.plist */,
+				7ADD32421C056843007A2D15 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7ADD32531C056843007A2D15 /* UILessionUIGestureRecognizer5Tests */ = {
+			isa = PBXGroup;
+			children = (
+				7ADD32561C056843007A2D15 /* UILessionUIGestureRecognizer5Tests.m */,
+				7ADD32541C056843007A2D15 /* Supporting Files */,
+			);
+			path = UILessionUIGestureRecognizer5Tests;
+			sourceTree = "<group>";
+		};
+		7ADD32541C056843007A2D15 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7ADD32551C056843007A2D15 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7ADD323C1C056843007A2D15 /* UILessionUIGestureRecognizer5 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7ADD325A1C056843007A2D15 /* Build configuration list for PBXNativeTarget "UILessionUIGestureRecognizer5" */;
+			buildPhases = (
+				7ADD32391C056843007A2D15 /* Sources */,
+				7ADD323A1C056843007A2D15 /* Frameworks */,
+				7ADD323B1C056843007A2D15 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UILessionUIGestureRecognizer5;
+			productName = UILessionUIGestureRecognizer5;
+			productReference = 7ADD323D1C056843007A2D15 /* UILessionUIGestureRecognizer5.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7ADD324F1C056843007A2D15 /* UILessionUIGestureRecognizer5Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7ADD325D1C056843007A2D15 /* Build configuration list for PBXNativeTarget "UILessionUIGestureRecognizer5Tests" */;
+			buildPhases = (
+				7ADD324C1C056843007A2D15 /* Sources */,
+				7ADD324D1C056843007A2D15 /* Frameworks */,
+				7ADD324E1C056843007A2D15 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7ADD32521C056843007A2D15 /* PBXTargetDependency */,
+			);
+			name = UILessionUIGestureRecognizer5Tests;
+			productName = UILessionUIGestureRecognizer5Tests;
+			productReference = 7ADD32501C056843007A2D15 /* UILessionUIGestureRecognizer5Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7ADD32351C056843007A2D15 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "芒果iOS";
+				TargetAttributes = {
+					7ADD323C1C056843007A2D15 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					7ADD324F1C056843007A2D15 = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = 7ADD323C1C056843007A2D15;
+					};
+				};
+			};
+			buildConfigurationList = 7ADD32381C056843007A2D15 /* Build configuration list for PBXProject "UILessionUIGestureRecognizer5" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7ADD32341C056843007A2D15;
+			productRefGroup = 7ADD323E1C056843007A2D15 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7ADD323C1C056843007A2D15 /* UILessionUIGestureRecognizer5 */,
+				7ADD324F1C056843007A2D15 /* UILessionUIGestureRecognizer5Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7ADD323B1C056843007A2D15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7AF8C38D1C058BA200AD996D /* 1.jpg in Resources */,
+				7ADD324B1C056843007A2D15 /* LaunchScreen.xib in Resources */,
+				7ADD32481C056843007A2D15 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7ADD324E1C056843007A2D15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7ADD32391C056843007A2D15 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ADD32621C05685D007A2D15 /* MangoViewController.m in Sources */,
+				7ADD32461C056843007A2D15 /* AppDelegate.m in Sources */,
+				7ADD32431C056843007A2D15 /* main.m in Sources */,
+				7ADD32651C0568B3007A2D15 /* MangoView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7ADD324C1C056843007A2D15 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ADD32571C056843007A2D15 /* UILessionUIGestureRecognizer5Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7ADD32521C056843007A2D15 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7ADD323C1C056843007A2D15 /* UILessionUIGestureRecognizer5 */;
+			targetProxy = 7ADD32511C056843007A2D15 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		7ADD32491C056843007A2D15 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7ADD324A1C056843007A2D15 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7ADD32581C056843007A2D15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		7ADD32591C056843007A2D15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7ADD325B1C056843007A2D15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				INFOPLIST_FILE = UILessionUIGestureRecognizer5/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7ADD325C1C056843007A2D15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				INFOPLIST_FILE = UILessionUIGestureRecognizer5/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		7ADD325E1C056843007A2D15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = UILessionUIGestureRecognizer5Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UILessionUIGestureRecognizer5.app/UILessionUIGestureRecognizer5";
+			};
+			name = Debug;
+		};
+		7ADD325F1C056843007A2D15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = UILessionUIGestureRecognizer5Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UILessionUIGestureRecognizer5.app/UILessionUIGestureRecognizer5";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7ADD32381C056843007A2D15 /* Build configuration list for PBXProject "UILessionUIGestureRecognizer5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ADD32581C056843007A2D15 /* Debug */,
+				7ADD32591C056843007A2D15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7ADD325A1C056843007A2D15 /* Build configuration list for PBXNativeTarget "UILessionUIGestureRecognizer5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ADD325B1C056843007A2D15 /* Debug */,
+				7ADD325C1C056843007A2D15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7ADD325D1C056843007A2D15 /* Build configuration list for PBXNativeTarget "UILessionUIGestureRecognizer5Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ADD325E1C056843007A2D15 /* Debug */,
+				7ADD325F1C056843007A2D15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7ADD32351C056843007A2D15 /* Project object */;
+}

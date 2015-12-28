@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>move</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>01.png</string>
+			<key>movieName</key>
+			<string>怦然心动</string>
+			<key>introduce</key>
+			<string>明星不避嫌，触碰禁忌恋  </string>
+			<key>time</key>
+			<string>2015-12-03 本周四上映</string>
+			<key>lookNumber</key>
+			<string>168586人想看</string>
+			<key>button</key>
+			<string>预售</string>
+			<key>showIntroduce</key>
+			<string>星光熠熠的娱乐圈，表面上光鲜亮丽，是无数小人物梦寐以求进入的水晶宫殿。然而当真正身处其中，识于微时的他们将面临什么抉择，友情、爱情、命运又将如何改变？2015年…</string>
+			<key>lead</key>
+			<string>杨幂  李易峰  陈数  王耀庆  张云龙 </string>
+			<key>director</key>
+			<string>陈国辉 </string>
+			<key>area</key>
+			<string>内地 </string>
+			<key>type</key>
+			<string>喜剧  爱情 </string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>02.png</string>
+			<key>movieName</key>
+			<string>我的少女时代</string>
+			<key>introduce</key>
+			<string>辣手才情侣，最后爱上你</string>
+			<key>time</key>
+			<string>今天十五家影院放映79场</string>
+			<key>lookNumber</key>
+			<string>9.2分</string>
+			<key>button</key>
+			<string>购票</string>
+			<key>showIntroduce</key>
+			<string>神经大条且长相平凡的林真心（宋芸桦饰），每天眼珠都是跟着校内风云人物欧阳非凡（李玉玺饰）转动，而徐太宇（王大陆饰）身为学校头号痞子，则一心要把上亮丽的校花陶敏敏（简廷芮饰）。林真心偶然发现欧阳和陶敏敏交往的秘密；在喜欢敏敏的流氓学生徐太宇的胁迫下，两人组成“失恋阵线联盟”，誓言拆散这对金童玉女，帮彼此倒追心上人。一个是LOSER壁花想要走到白马王子身边，一个是地痞混混想追到圣女校花，两人一路跌跌撞撞、笑料百出，却万万没想到对彼此动了心</string>
+			<key>lead</key>
+			<string>宋芸桦  王大陆  李玉玺  简廷芮  陈乔恩 </string>
+			<key>director</key>
+			<string>陈玉珊 </string>
+			<key>area</key>
+			<string>台湾 </string>
+			<key>type</key>
+			<string>剧情  爱情 </string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>03.png</string>
+			<key>movieName</key>
+			<string>坏蛋必须死</string>
+			<key>introduce</key>
+			<string>说好悬疑片，能否严肃点</string>
+			<key>time</key>
+			<string>今天18家影院放映88场</string>
+			<key>lookNumber</key>
+			<string>8.1分</string>
+			<key>button</key>
+			<string>购票</string>
+			<key>showIntroduce</key>
+			<string>假期来临之际，在釜山当中文老师的强子（陈柏霖 饰）和从中国家乡远道而来的好哥们三儿（乔振宇 饰）、大头（丁文博 饰）和弟弟帕帕（杨旭文 饰）相约，一起到济州岛散心。狂飙的小混混、性感的韩国女人（孙艺珍 饰）、执着的老警察（张光 饰）、神秘的尾随者（申贤俊 饰）、不着调的牧师（朴哲民 饰）接连出现在他们身边。期盼已久的旅程，因为这些人的存在而鸡飞狗跳、险象环生，好像每个人都做了坏事。此时一只神秘小黑猪出现让所有人杀红了眼，更将众人推向生死危急的关口……</string>
+			<key>lead</key>
+			<string>陈柏霖  孙艺珍  乔振宇  申贤俊  张光 </string>
+			<key>director</key>
+			<string>孙皓 </string>
+			<key>area</key>
+			<string>内地 </string>
+			<key>type</key>
+			<string>剧情  喜剧  悬疑  犯罪 </string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>04.png</string>
+			<key>movieName</key>
+			<string>从天而降</string>
+			<key>introduce</key>
+			<string>萌娃有神力，爱情有天意</string>
+			<key>time</key>
+			<string>2015-12-04 本周五上映</string>
+			<key>lookNumber</key>
+			<string>82854人想看</string>
+			<key>button</key>
+			<string>预售</string>
+			<key>showIntroduce</key>
+			<string>辰默（陈学冬 饰）与墨涵（姜雯 饰）、乐意（张艺兴 饰）与鹿米嘉（李小璐 饰）是两对恋人，彼此也是密友，四个年轻人共住在一栋公寓里像长不大的孩子一样随性生活、游戏人间。突然一天一颗流星化作一个可爱的婴儿来到他们中间，这个兼具着四人特点的宝宝究竟是谁的孩子？惊讶之余仓促上阵的奶爸奶妈们被搞的几近抓狂，狼狈不堪。渐渐的他们发现 这个被取名“也行”的小宝宝竟然拥有不可思议的特异功能！随之各种事件纷至沓来！在应对过程中，这个奇怪的“五口之家”变得井然而温暖，一改过去的混乱面貌，仿佛一切都是小宝宝在暗中指引
+………..</string>
+			<key>director</key>
+			<string>小松隆志 </string>
+			<key>lead</key>
+			<string>反町隆史  西村雅彦  石垣佑磨 </string>
+			<key>area</key>
+			<string>日本 </string>
+			<key>type</key>
+			<string>剧情 </string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>05.png</string>
+			<key>movieName</key>
+			<string>极盗者</string>
+			<key>introduce</key>
+			<string>盗贼玩极限，生死一瞬间</string>
+			<key>time</key>
+			<string>2015-12-04 本周五上映</string>
+			<key>lookNumber</key>
+			<string>39467人想看</string>
+			<key>button</key>
+			<string>预售</string>
+			<key>showIntroduce</key>
+			<string>年轻的FBI特工强尼·犹他（卢克·布雷西 Luke Bracey 饰），潜伏到一队喜欢寻找刺激挑战的盗匪里，该队伍由富有个人魅力的鲍迪（埃德加·拉米雷兹 饰）领导。这些盗匪被怀疑是在用极不寻常的方式进行着系列犯罪。在与鲍迪这一伙人的交往中，犹他发现自己无可自拔的与这伙人产生了伙伴情谊，犹他陷入了职业伦理与追求真我之间的矛盾，他放弃了自己的一切，加入到了对人类极限界的八项巅峰挑战的追寻中……</string>
+			<key>lead</key>
+			<string>卢克·布雷西  埃德加·拉米雷兹  泰莉莎·帕尔墨  雷·温斯顿  戴尔里·林多 </string>
+			<key>director</key>
+			<string>埃里克松·科尔</string>
+			<key>area</key>
+			<string>美国 </string>
+			<key>type</key>
+			<string>动作  惊悚  犯罪</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>06.png</string>
+			<key>movieName</key>
+			<string>不可思异</string>
+			<key>introduce</key>
+			<string>外星小魔球，特效有点生</string>
+			<key>time</key>
+			<string>2015-12-04 本周五上映</string>
+			<key>lookNumber</key>
+			<string>61901人想看</string>
+			<key>button</key>
+			<string>预售</string>
+			<key>showIntroduce</key>
+			<string>处于人生、事业低谷的唐立果（王宝强 饰）在消沉与悔恨中度日。某日，开普勒星球的“外星生物”为了采集人类样本来到地球，闯入了唐立果的生活中……一系列啼笑皆非的奇幻事情接二连三地发生。唐立果亦兄弟亦老板的王若水（小沈阳 饰）因遭遇竞争对手的吞并阴谋，落入陷阱并欠下巨额高利贷，公司面临倒闭边缘。王若水几度产生轻生念头，唐立果与他的多年客户田静从事故的索赔转化发展为恋人关系，而一切看似峰回路转之时，外星生物的奇功异能被贪婪的反派（董成鹏 饰）发现并企图据为己有，人类贪婪欲望再一次暴露。地球，陷入一场“不可思异”的危机当中……</string>
+			<key>lead</key>
+			<string>王宝强  小沈阳  董成鹏王  尹正  成毅 </string>
+			<key>director</key>
+			<string>孙周 </string>
+			<key>area</key>
+			<string>内地 </string>
+			<key>type</key>
+			<string>剧情  喜剧  奇幻 </string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>07.png</string>
+			<key>movieName</key>
+			<string>夏洛特烦恼</string>
+			<key>introduce</key>
+			<string>外星小魔球，特效有点生</string>
+			<key>time</key>
+			<string>今天66家影院放映100场</string>
+			<key>lookNumber</key>
+			<string>9.2分</string>
+			<key>button</key>
+			<string>购票</string>
+			<key>showIntroduce</key>
+			<string>昔日校花秋雅（王智 饰）的婚礼正在隆重举行，学生时代暗恋秋雅的夏洛（沈腾 饰）看着周围事业成功的老同学，心中泛起酸味，借着七分醉意大闹婚礼现场，甚至惹得妻子马冬梅（马丽 饰）现场发飙，而他发泄过后却在马桶上睡着了。梦里他重回校园，追求到他心爱的女孩、让失望的母亲重展笑颜、甚至成为无所不能的流行乐坛巨星…… 　　醉生梦死中，他发现身边人都在利用自己，只有马冬梅是最值得珍惜的……</string>
+			<key>lead</key>
+			<string>沈腾  马丽  尹正  艾伦  王智</string>
+			<key>director</key>
+			<string>闫非  彭大魔 </string>
+			<key>area</key>
+			<string>内地 </string>
+			<key>type</key>
+			<string>喜剧 </string>
+		</dict>
+	</array>
+</dict>
+</plist>

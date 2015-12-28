@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>德国</key>
+	<array>
+		<dict>
+			<key>carName</key>
+			<string>梅赛德斯奔驰</string>
+			<key>introduce</key>
+			<string>梅赛德斯-奔驰（Mercedes-Benz）是世界著名的德国汽车品牌。被誉为“汽车的发明者”[1]  1886年1月，卡尔·本茨发明了世界上第一辆三轮汽车，获得专利（专利号：DRP 37435[2]  ），与此同时，奔驰的另一位创始人戈特利布·戴姆勒发明了世界上第一辆四轮汽车。从此，世界发生了改变。1926年6月，戴姆勒公司与奔驰公司合并成立了戴姆勒-奔驰汽车公司，以梅赛德斯-奔驰命名的汽车，以高质量、高性能的汽车产品闻名于世。除了高档豪华轿车外，奔驰公司还是世界上最著名的大客车和重型载重汽车的生产厂家。梅赛德斯-奔驰为戴姆勒集团（Daimler AG）[3]  旗下公司。</string>
+			<key>carImage</key>
+			<string>Mercedes1.png</string>
+		</dict>
+		<dict>
+			<key>carName</key>
+			<string>宝马</string>
+			<key>introduce</key>
+			<string>宝马汽车为德系三大豪华品牌之一，宝马的车系有1、2、3、4、5、6、7、i、X、Z、I等几个系列，还有在各系基础上进行改进的M系（宝马官方的高性能改装部门）。
+宝马公司创建于1916年，总部设在德国慕尼黑。
+BMW的蓝白标志宝马总部所在地巴伐利亚州州旗的颜色。百年来，宝马汽车由最初的一家飞机引擎生产厂发展成为以高级轿车为主导，并生产享誉全球的飞机引擎、越野车和摩托车的企业集团，名列世界汽车公司前列。宝马也被译为“巴依尔”。</string>
+			<key>carImage</key>
+			<string>BMW.png</string>
+		</dict>
+		<dict>
+			<key>carName</key>
+			<string>奥迪</string>
+			<key>introduce</key>
+			<string>奥迪（Audi）是德国大众汽车集团子公司奥迪汽车公司旗下的豪华汽车品牌，作为高技术水平、质量标准、创新能力、以及经典车型款式的代表，奥迪是世界最成功的汽车品牌之一。公司总部设在德国的英戈尔施塔特，并在中国等许多国家有分工公司，是价位比较合适的中高档车。从用途来看，可分为商务型，家用型。</string>
+			<key>carImage</key>
+			<string>Audi.png</string>
+		</dict>
+	</array>
+	<key>日本</key>
+	<array>
+		<dict>
+			<key>carName</key>
+			<string>丰田</string>
+			<key>introduce</key>
+			<string>丰田汽车公司（Toyota Motor Corporation），简称丰田（TOYOTA），是一家总部设在日本爱知县丰田市和东京都文京区的日本汽车制造公司，属于三井财阀。[1] 
+丰田是目前全世界排名第一的汽车生产公司，2012年共售973万辆车，2013年度预计生产1010万辆汽车，是第一个达到年产量千万台以上的车厂。而丰田亦是雷克萨斯、斯巴鲁品牌的母公司及富士重工的最大股东。丰田任命首位“女老大” 主管全球公关业务。</string>
+			<key>carImage</key>
+			<string>Toyota.png</string>
+		</dict>
+		<dict>
+			<key>carName</key>
+			<string>本田</string>
+			<key>introduce</key>
+			<string>本田株式会社（本田技研工业株式会社）是世界上最大的摩托车生产厂家，汽车产量和规模也名列世界十大汽车厂家之列。1948年创立，创始人是传奇式人物本田宗一郎。公司总部在东京，雇员总数达18万人左右。现在，本田公司已是一个跨国汽车、摩托车生产销售集团。它的产品除汽车、摩托车外，还有发电机、农机等动力机械产品。</string>
+			<key>carImage</key>
+			<string>Honda.png</string>
+		</dict>
+		<dict>
+			<key>carName</key>
+			<string>日产</string>
+			<key>introduce</key>
+			<string>日产（NISSAN ），是日本的一家汽车制造商，由鲇川义介于1933年在神奈川县横滨市成立，目前在二十个国家和地区（包括日本）设有汽车制造基地，并在全球160多个国家和地区提供产品和服务。公司经营范围包括汽车产品和船舶设备的制造、销售和相关业务，现任总裁兼首席执行官为卡洛斯·戈恩（Carlos Ghosn）。1999年，雷诺与日产汽车结成独立的合作伙伴关系，在广泛的领域中展开战略性的合作，日产汽车通过联盟将事业区域拓展至全球，其经济规模大幅增长。
+“NISSAN’（ニッサン）是日语 “日产”两个字的罗马音形式，是日本产业的简称，其含义是 “以人和汽车的明天为目标”。
+图形商标是将NISSAN放在一个火红的太阳上，简明扼要地表明了公司名称，突出了所在国家的形象，这在汽车商标文化中独树一帜。</string>
+			<key>carImage</key>
+			<string>Nisan.png</string>
+		</dict>
+	</array>
+	<key>美国</key>
+	<array>
+		<dict>
+			<key>carName</key>
+			<string>凯迪拉克</string>
+			<key>introduce</key>
+			<string>凯迪拉克（香港译作“佳得利”）是美国通用汽车集团旗下一款豪华汽车品牌，1902年（壬寅年）诞生于被誉为美国汽车之城的底特律。百多年来，凯迪拉克汽车在行业车内创造了无数个第一，缔造了无数个豪华车的行业标准；可以说凯迪拉克的历史代表了美国豪华车的历史。在韦伯斯特大词典中，凯迪拉克被定义为“同类中最为出色、最具声望事物”的同义词；被一向以追求极致尊贵著称的伦敦皇家汽车俱乐部冠以“世界标准”的美誉。 凯迪拉克融汇了百年历史精华和一代代设计师的智慧才智，成为汽车工业的领导性品牌。</string>
+			<key>carImage</key>
+			<string>Cadillac.png</string>
+		</dict>
+		<dict>
+			<key>carName</key>
+			<string>雪佛兰</string>
+			<key>introduce</key>
+			<string>雪佛兰（Chevrolet）是美国通用汽车公司（General Motors，简称GM）旗下的一个汽车品牌，1911年11月3日创立，创始人为威廉·杜兰特（William C. Durant）和路易斯·雪佛兰（Louis Chevrolet）。雪佛兰也被称为Chevy，1918年被通用汽车并购，现在为通用汽车旗下最为国际化和大众化的品牌。雪佛兰的车型品种非常广泛，从小型轿车到大型4门轿车，从厢式车到大型皮卡，甚至从越野车到跑车，雪佛兰几乎生产消费者所需要的任何一种车型。</string>
+			<key>carImage</key>
+			<string>GMC.png</string>
+		</dict>
+		<dict>
+			<key>carName</key>
+			<string>福特</string>
+			<key>introduce</key>
+			<string>福特（Ford）是世界著名的汽车品牌，为美国福特汽车公司（Ford Motor Company）旗下的众多品牌之一，公司及品牌名“福特”来源于创始人亨利·福特（Henry Ford）的姓氏。福特汽车公司是世界上最大的汽车生产商之一，成立于1903年，旗下拥有福特（Ford）和林肯（Lincoln）汽车品牌，总部位于密歇根州迪尔伯恩市（Dearborn）。除了制造汽车，公司还设有金融服务部门即福特信贷（Ford Credit），主要经营购车金融、车辆租赁和汽车保险方面的业务。</string>
+			<key>carImage</key>
+			<string>Ford.png</string>
+		</dict>
+	</array>
+	<key>意大利</key>
+	<array>
+		<dict>
+			<key>carName</key>
+			<string>兰博基尼</string>
+			<key>introduce</key>
+			<string>兰博基尼（Automobili Lamborghini S.p.A.）（粤港地区称之为林宝坚尼，台湾地区则将其译为蓝宝坚尼或蓝宝基尼）全球顶级跑车制造商及欧洲奢侈品标志之一，公司坐落于意大利圣亚加塔·波隆尼（Sant&apos;Agata Bolognese），由费鲁吉欧·兰博基尼在1963年创立。早期由于经营不善，于1980年破产；数次易主后，1998年归入奥迪旗下，现为大众集团（Volkswagen Group）旗下品牌之一。
+兰博基尼的标志是一头充满力量、正向对方攻击的斗牛，与大马力高性能跑车的特性相契合，同时彰显了创始人斗牛般不甘示弱的个性。</string>
+			<key>carImage</key>
+			<string>Lamborghini.png</string>
+		</dict>
+		<dict>
+			<key>carName</key>
+			<string>法拉利</string>
+			<key>introduce</key>
+			<string>法拉利（Ferrari）是一家意大利汽车生产商，1929年由恩佐·法拉利（Enzo Ferrari）创办，主要制造一级方程式赛车、赛车及高性能跑车。法拉利是世界闻名的赛车和运动跑车的生产厂家，早期的法拉利赞助赛车手及生产赛车，1947年独立生产汽车。菲亚特（FIAT）拥有法拉利90%的股权，但法拉利却能独立于菲亚特运营。法拉利汽车大部分采用手工制造，产量很低，截至2011年法拉利共交付7195台新车，为法拉利史上最佳销售业绩。公司总部在意大利的马拉内罗（Maranello)。</string>
+			<key>carImage</key>
+			<string>Ferrari.png</string>
+		</dict>
+		<dict>
+			<key>carName</key>
+			<string>玛莎拉蒂</string>
+			<key>introduce</key>
+			<string>玛莎拉蒂（Maserati）是一家意大利豪华汽车制造商，1914年12月1日成立于博洛尼亚（Bologna），公司总部现设于摩德纳（Modena），品牌的标志为一支三叉戟。1993年菲亚特（Fiat S.p.A.）收购玛莎拉蒂，但品牌得以保留。玛莎拉蒂曾经是法拉利（一家菲亚特拥有大部分股权的公司）的一部分，现为菲亚特克莱斯勒汽车直接拥有。而今的玛莎拉蒂全新轿跑系列是意大利顶尖轿跑车制作技术的体现，也是意大利设计美学以及优质工匠设计思维的完美结合。</string>
+			<key>carImage</key>
+			<string>Maserati.png</string>
+		</dict>
+	</array>
+	<key>英国</key>
+	<array>
+		<dict>
+			<key>carName</key>
+			<string>阿斯顿马丁</string>
+			<key>introduce</key>
+			<string>阿斯顿·马丁（AstonMartin）公司设在英国盖顿，生产敞篷旅行车、赛车和限量生产的跑车。 由莱昂内尔·马丁(LionelMartin)和罗伯特·班福特(RobertBamford)于1913年共同组建，公司名为Bamford &amp; Martin。其品牌一直是造型别致、精工细作、性能卓越的运动跑车的代名词，被称为跑车中的劳斯莱斯。马丁是一个赛车手，而班福特则是一名工程师，1913年两人合作开始制造高档赛车，公司当时的名称是马丁·班福德公司，1914年他们生产出自己的第一辆汽车
+1987年被美国福特公司收购。2007年，Prodrive老板大卫·理查兹以9.25亿美元的价格从福特手中购得阿斯顿·马丁。</string>
+			<key>carImage</key>
+			<string>Bentley.png</string>
+		</dict>
+		<dict>
+			<key>carName</key>
+			<string>路虎</string>
+			<key>introduce</key>
+			<string>路虎（Landrover），路虎公司是世界上生产四驱车的公司之一，也是著名的英国越野车品牌。路虎（Landrover），曾在中国大陆翻译成“陆虎”（香港地区称之为“越野路华”），在“Landrover”未正式在中国销售前，国人一直翻译成“陆虎”，“Landrover”正式进入中国上市时，发现“陆虎”两个字已被国内一家汽车企业抢注商标，“Landrover”在中国注册为“路虎”。2003年，路虎公司在中国设立办事处。2009年，路虎已先后将旗下2010年款路虎揽胜（Range Rover）、路虎揽胜运动版（Range Rover Sport）、路虎第四代发现（Discovery 4）和路虎神行者2代（Freelander 2）带入中国，为广大中国消费者提供丰富、全面的产品选择。2010年3月，路虎卫士（Defender）在中国市场正式上市。至此，路虎已将旗下全系产品引入中国，充分显示了路虎对中国市场的重视及信心。
+2015年3月19日晚，捷豹路虎中国宣布，主动召回在中国大陆地区涉及问题的部分2014和2015年款共计36451台进口路虎揽胜极光，同时还将对问题批次车辆九速变速器保修期延长至7年或24万公里。
+对召回车辆免费软件升级完成后1年内，为涉及问题的车主赠送极光基础保养服务包2次。</string>
+			<key>carImage</key>
+			<string>Land_Rover.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>

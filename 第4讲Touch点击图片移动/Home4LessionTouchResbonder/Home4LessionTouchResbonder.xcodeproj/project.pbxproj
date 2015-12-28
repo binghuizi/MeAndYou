@@ -1,0 +1,423 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7AF51B131C02EE9100F7A4BD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AF51B121C02EE9100F7A4BD /* main.m */; };
+		7AF51B161C02EE9100F7A4BD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AF51B151C02EE9100F7A4BD /* AppDelegate.m */; };
+		7AF51B181C02EE9100F7A4BD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AF51B171C02EE9100F7A4BD /* Images.xcassets */; };
+		7AF51B1B1C02EE9100F7A4BD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7AF51B191C02EE9100F7A4BD /* LaunchScreen.xib */; };
+		7AF51B271C02EE9200F7A4BD /* Home4LessionTouchResbonderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AF51B261C02EE9200F7A4BD /* Home4LessionTouchResbonderTests.m */; };
+		7AF51B321C02EEBD00F7A4BD /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AF51B311C02EEBD00F7A4BD /* MainViewController.m */; };
+		7AF51B351C02EEE100F7A4BD /* ManggoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AF51B341C02EEE100F7A4BD /* ManggoView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7AF51B211C02EE9100F7A4BD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7AF51B051C02EE9100F7A4BD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7AF51B0C1C02EE9100F7A4BD;
+			remoteInfo = Home4LessionTouchResbonder;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7AF51B0D1C02EE9100F7A4BD /* Home4LessionTouchResbonder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Home4LessionTouchResbonder.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AF51B111C02EE9100F7A4BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7AF51B121C02EE9100F7A4BD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7AF51B141C02EE9100F7A4BD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		7AF51B151C02EE9100F7A4BD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		7AF51B171C02EE9100F7A4BD /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		7AF51B1A1C02EE9100F7A4BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		7AF51B201C02EE9100F7A4BD /* Home4LessionTouchResbonderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Home4LessionTouchResbonderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AF51B251C02EE9200F7A4BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7AF51B261C02EE9200F7A4BD /* Home4LessionTouchResbonderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Home4LessionTouchResbonderTests.m; sourceTree = "<group>"; };
+		7AF51B301C02EEBD00F7A4BD /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		7AF51B311C02EEBD00F7A4BD /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		7AF51B331C02EEE100F7A4BD /* ManggoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManggoView.h; sourceTree = "<group>"; };
+		7AF51B341C02EEE100F7A4BD /* ManggoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManggoView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7AF51B0A1C02EE9100F7A4BD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7AF51B1D1C02EE9100F7A4BD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7AF51B041C02EE9100F7A4BD = {
+			isa = PBXGroup;
+			children = (
+				7AF51B0F1C02EE9100F7A4BD /* Home4LessionTouchResbonder */,
+				7AF51B231C02EE9100F7A4BD /* Home4LessionTouchResbonderTests */,
+				7AF51B0E1C02EE9100F7A4BD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7AF51B0E1C02EE9100F7A4BD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7AF51B0D1C02EE9100F7A4BD /* Home4LessionTouchResbonder.app */,
+				7AF51B201C02EE9100F7A4BD /* Home4LessionTouchResbonderTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7AF51B0F1C02EE9100F7A4BD /* Home4LessionTouchResbonder */ = {
+			isa = PBXGroup;
+			children = (
+				7AF51B141C02EE9100F7A4BD /* AppDelegate.h */,
+				7AF51B151C02EE9100F7A4BD /* AppDelegate.m */,
+				7AF51B331C02EEE100F7A4BD /* ManggoView.h */,
+				7AF51B341C02EEE100F7A4BD /* ManggoView.m */,
+				7AF51B301C02EEBD00F7A4BD /* MainViewController.h */,
+				7AF51B311C02EEBD00F7A4BD /* MainViewController.m */,
+				7AF51B171C02EE9100F7A4BD /* Images.xcassets */,
+				7AF51B191C02EE9100F7A4BD /* LaunchScreen.xib */,
+				7AF51B101C02EE9100F7A4BD /* Supporting Files */,
+			);
+			path = Home4LessionTouchResbonder;
+			sourceTree = "<group>";
+		};
+		7AF51B101C02EE9100F7A4BD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7AF51B111C02EE9100F7A4BD /* Info.plist */,
+				7AF51B121C02EE9100F7A4BD /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7AF51B231C02EE9100F7A4BD /* Home4LessionTouchResbonderTests */ = {
+			isa = PBXGroup;
+			children = (
+				7AF51B261C02EE9200F7A4BD /* Home4LessionTouchResbonderTests.m */,
+				7AF51B241C02EE9200F7A4BD /* Supporting Files */,
+			);
+			path = Home4LessionTouchResbonderTests;
+			sourceTree = "<group>";
+		};
+		7AF51B241C02EE9200F7A4BD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7AF51B251C02EE9200F7A4BD /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7AF51B0C1C02EE9100F7A4BD /* Home4LessionTouchResbonder */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7AF51B2A1C02EE9200F7A4BD /* Build configuration list for PBXNativeTarget "Home4LessionTouchResbonder" */;
+			buildPhases = (
+				7AF51B091C02EE9100F7A4BD /* Sources */,
+				7AF51B0A1C02EE9100F7A4BD /* Frameworks */,
+				7AF51B0B1C02EE9100F7A4BD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Home4LessionTouchResbonder;
+			productName = Home4LessionTouchResbonder;
+			productReference = 7AF51B0D1C02EE9100F7A4BD /* Home4LessionTouchResbonder.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7AF51B1F1C02EE9100F7A4BD /* Home4LessionTouchResbonderTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7AF51B2D1C02EE9200F7A4BD /* Build configuration list for PBXNativeTarget "Home4LessionTouchResbonderTests" */;
+			buildPhases = (
+				7AF51B1C1C02EE9100F7A4BD /* Sources */,
+				7AF51B1D1C02EE9100F7A4BD /* Frameworks */,
+				7AF51B1E1C02EE9100F7A4BD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7AF51B221C02EE9100F7A4BD /* PBXTargetDependency */,
+			);
+			name = Home4LessionTouchResbonderTests;
+			productName = Home4LessionTouchResbonderTests;
+			productReference = 7AF51B201C02EE9100F7A4BD /* Home4LessionTouchResbonderTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7AF51B051C02EE9100F7A4BD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "芒果iOS";
+				TargetAttributes = {
+					7AF51B0C1C02EE9100F7A4BD = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					7AF51B1F1C02EE9100F7A4BD = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = 7AF51B0C1C02EE9100F7A4BD;
+					};
+				};
+			};
+			buildConfigurationList = 7AF51B081C02EE9100F7A4BD /* Build configuration list for PBXProject "Home4LessionTouchResbonder" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7AF51B041C02EE9100F7A4BD;
+			productRefGroup = 7AF51B0E1C02EE9100F7A4BD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7AF51B0C1C02EE9100F7A4BD /* Home4LessionTouchResbonder */,
+				7AF51B1F1C02EE9100F7A4BD /* Home4LessionTouchResbonderTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7AF51B0B1C02EE9100F7A4BD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7AF51B1B1C02EE9100F7A4BD /* LaunchScreen.xib in Resources */,
+				7AF51B181C02EE9100F7A4BD /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7AF51B1E1C02EE9100F7A4BD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7AF51B091C02EE9100F7A4BD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7AF51B161C02EE9100F7A4BD /* AppDelegate.m in Sources */,
+				7AF51B321C02EEBD00F7A4BD /* MainViewController.m in Sources */,
+				7AF51B131C02EE9100F7A4BD /* main.m in Sources */,
+				7AF51B351C02EEE100F7A4BD /* ManggoView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7AF51B1C1C02EE9100F7A4BD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7AF51B271C02EE9200F7A4BD /* Home4LessionTouchResbonderTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7AF51B221C02EE9100F7A4BD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7AF51B0C1C02EE9100F7A4BD /* Home4LessionTouchResbonder */;
+			targetProxy = 7AF51B211C02EE9100F7A4BD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		7AF51B191C02EE9100F7A4BD /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7AF51B1A1C02EE9100F7A4BD /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7AF51B281C02EE9200F7A4BD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		7AF51B291C02EE9200F7A4BD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7AF51B2B1C02EE9200F7A4BD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				INFOPLIST_FILE = Home4LessionTouchResbonder/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7AF51B2C1C02EE9200F7A4BD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				INFOPLIST_FILE = Home4LessionTouchResbonder/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		7AF51B2E1C02EE9200F7A4BD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Home4LessionTouchResbonderTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Home4LessionTouchResbonder.app/Home4LessionTouchResbonder";
+			};
+			name = Debug;
+		};
+		7AF51B2F1C02EE9200F7A4BD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Home4LessionTouchResbonderTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Home4LessionTouchResbonder.app/Home4LessionTouchResbonder";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7AF51B081C02EE9100F7A4BD /* Build configuration list for PBXProject "Home4LessionTouchResbonder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AF51B281C02EE9200F7A4BD /* Debug */,
+				7AF51B291C02EE9200F7A4BD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7AF51B2A1C02EE9200F7A4BD /* Build configuration list for PBXNativeTarget "Home4LessionTouchResbonder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AF51B2B1C02EE9200F7A4BD /* Debug */,
+				7AF51B2C1C02EE9200F7A4BD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7AF51B2D1C02EE9200F7A4BD /* Build configuration list for PBXNativeTarget "Home4LessionTouchResbonderTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AF51B2E1C02EE9200F7A4BD /* Debug */,
+				7AF51B2F1C02EE9200F7A4BD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7AF51B051C02EE9100F7A4BD /* Project object */;
+}

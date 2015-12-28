@@ -1,0 +1,497 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7ADFF8BD1C0F0EC20042319E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADFF8BC1C0F0EC20042319E /* main.m */; };
+		7ADFF8C01C0F0EC20042319E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADFF8BF1C0F0EC20042319E /* AppDelegate.m */; };
+		7ADFF8C21C0F0EC20042319E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8C11C0F0EC20042319E /* Images.xcassets */; };
+		7ADFF8C51C0F0EC20042319E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8C31C0F0EC20042319E /* LaunchScreen.xib */; };
+		7ADFF8D11C0F0EC20042319E /* LianXi11MakeCellTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADFF8D01C0F0EC20042319E /* LianXi11MakeCellTests.m */; };
+		7ADFF8DC1C0F0EE00042319E /* MangoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADFF8DB1C0F0EE00042319E /* MangoViewController.m */; };
+		7ADFF8DF1C0F0F8C0042319E /* MangoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADFF8DE1C0F0F8C0042319E /* MangoTableViewCell.m */; };
+		7ADFF8F01C0F0FA60042319E /* Audi.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8E11C0F0FA60042319E /* Audi.png */; };
+		7ADFF8F11C0F0FA60042319E /* Bentley.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8E21C0F0FA60042319E /* Bentley.png */; };
+		7ADFF8F21C0F0FA60042319E /* BMW.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8E31C0F0FA60042319E /* BMW.png */; };
+		7ADFF8F31C0F0FA60042319E /* Cadillac.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8E41C0F0FA60042319E /* Cadillac.png */; };
+		7ADFF8F41C0F0FA60042319E /* Car.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8E51C0F0FA60042319E /* Car.plist */; };
+		7ADFF8F51C0F0FA60042319E /* Ferrari.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8E61C0F0FA60042319E /* Ferrari.png */; };
+		7ADFF8F61C0F0FA60042319E /* Ford.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8E71C0F0FA60042319E /* Ford.png */; };
+		7ADFF8F71C0F0FA60042319E /* GMC.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8E81C0F0FA60042319E /* GMC.png */; };
+		7ADFF8F81C0F0FA60042319E /* Honda.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8E91C0F0FA60042319E /* Honda.png */; };
+		7ADFF8F91C0F0FA60042319E /* Lamborghini.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8EA1C0F0FA60042319E /* Lamborghini.png */; };
+		7ADFF8FA1C0F0FA60042319E /* Land_Rover.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8EB1C0F0FA60042319E /* Land_Rover.png */; };
+		7ADFF8FB1C0F0FA60042319E /* Maserati.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8EC1C0F0FA60042319E /* Maserati.png */; };
+		7ADFF8FC1C0F0FA60042319E /* Mercedes1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8ED1C0F0FA60042319E /* Mercedes1.png */; };
+		7ADFF8FD1C0F0FA60042319E /* Nisan.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8EE1C0F0FA60042319E /* Nisan.png */; };
+		7ADFF8FE1C0F0FA60042319E /* Toyota.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ADFF8EF1C0F0FA60042319E /* Toyota.png */; };
+		7ADFF9011C0F13860042319E /* MangoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADFF9001C0F13860042319E /* MangoModel.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7ADFF8CB1C0F0EC20042319E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7ADFF8AF1C0F0EC10042319E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7ADFF8B61C0F0EC20042319E;
+			remoteInfo = LianXi11MakeCell;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7ADFF8B71C0F0EC20042319E /* LianXi11MakeCell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LianXi11MakeCell.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ADFF8BB1C0F0EC20042319E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7ADFF8BC1C0F0EC20042319E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7ADFF8BE1C0F0EC20042319E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		7ADFF8BF1C0F0EC20042319E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		7ADFF8C11C0F0EC20042319E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		7ADFF8C41C0F0EC20042319E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		7ADFF8CA1C0F0EC20042319E /* LianXi11MakeCellTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LianXi11MakeCellTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ADFF8CF1C0F0EC20042319E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7ADFF8D01C0F0EC20042319E /* LianXi11MakeCellTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LianXi11MakeCellTests.m; sourceTree = "<group>"; };
+		7ADFF8DA1C0F0EE00042319E /* MangoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MangoViewController.h; sourceTree = "<group>"; };
+		7ADFF8DB1C0F0EE00042319E /* MangoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MangoViewController.m; sourceTree = "<group>"; };
+		7ADFF8DD1C0F0F8C0042319E /* MangoTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MangoTableViewCell.h; sourceTree = "<group>"; };
+		7ADFF8DE1C0F0F8C0042319E /* MangoTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MangoTableViewCell.m; sourceTree = "<group>"; };
+		7ADFF8E11C0F0FA60042319E /* Audi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Audi.png; sourceTree = "<group>"; };
+		7ADFF8E21C0F0FA60042319E /* Bentley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bentley.png; sourceTree = "<group>"; };
+		7ADFF8E31C0F0FA60042319E /* BMW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BMW.png; sourceTree = "<group>"; };
+		7ADFF8E41C0F0FA60042319E /* Cadillac.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cadillac.png; sourceTree = "<group>"; };
+		7ADFF8E51C0F0FA60042319E /* Car.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Car.plist; path = tableViewCell/Car.plist; sourceTree = "<group>"; };
+		7ADFF8E61C0F0FA60042319E /* Ferrari.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ferrari.png; sourceTree = "<group>"; };
+		7ADFF8E71C0F0FA60042319E /* Ford.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ford.png; sourceTree = "<group>"; };
+		7ADFF8E81C0F0FA60042319E /* GMC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GMC.png; sourceTree = "<group>"; };
+		7ADFF8E91C0F0FA60042319E /* Honda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Honda.png; sourceTree = "<group>"; };
+		7ADFF8EA1C0F0FA60042319E /* Lamborghini.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lamborghini.png; sourceTree = "<group>"; };
+		7ADFF8EB1C0F0FA60042319E /* Land_Rover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Land_Rover.png; sourceTree = "<group>"; };
+		7ADFF8EC1C0F0FA60042319E /* Maserati.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Maserati.png; sourceTree = "<group>"; };
+		7ADFF8ED1C0F0FA60042319E /* Mercedes1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mercedes1.png; sourceTree = "<group>"; };
+		7ADFF8EE1C0F0FA60042319E /* Nisan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Nisan.png; sourceTree = "<group>"; };
+		7ADFF8EF1C0F0FA60042319E /* Toyota.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Toyota.png; sourceTree = "<group>"; };
+		7ADFF8FF1C0F13860042319E /* MangoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MangoModel.h; sourceTree = "<group>"; };
+		7ADFF9001C0F13860042319E /* MangoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MangoModel.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7ADFF8B41C0F0EC20042319E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7ADFF8C71C0F0EC20042319E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7ADFF8AE1C0F0EC10042319E = {
+			isa = PBXGroup;
+			children = (
+				7ADFF8E51C0F0FA60042319E /* Car.plist */,
+				7ADFF8E01C0F0FA60042319E /* tableViewCell */,
+				7ADFF8DA1C0F0EE00042319E /* MangoViewController.h */,
+				7ADFF8DB1C0F0EE00042319E /* MangoViewController.m */,
+				7ADFF8FF1C0F13860042319E /* MangoModel.h */,
+				7ADFF9001C0F13860042319E /* MangoModel.m */,
+				7ADFF8DD1C0F0F8C0042319E /* MangoTableViewCell.h */,
+				7ADFF8DE1C0F0F8C0042319E /* MangoTableViewCell.m */,
+				7ADFF8B91C0F0EC20042319E /* LianXi11MakeCell */,
+				7ADFF8CD1C0F0EC20042319E /* LianXi11MakeCellTests */,
+				7ADFF8B81C0F0EC20042319E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7ADFF8B81C0F0EC20042319E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7ADFF8B71C0F0EC20042319E /* LianXi11MakeCell.app */,
+				7ADFF8CA1C0F0EC20042319E /* LianXi11MakeCellTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7ADFF8B91C0F0EC20042319E /* LianXi11MakeCell */ = {
+			isa = PBXGroup;
+			children = (
+				7ADFF8BE1C0F0EC20042319E /* AppDelegate.h */,
+				7ADFF8BF1C0F0EC20042319E /* AppDelegate.m */,
+				7ADFF8C11C0F0EC20042319E /* Images.xcassets */,
+				7ADFF8C31C0F0EC20042319E /* LaunchScreen.xib */,
+				7ADFF8BA1C0F0EC20042319E /* Supporting Files */,
+			);
+			path = LianXi11MakeCell;
+			sourceTree = "<group>";
+		};
+		7ADFF8BA1C0F0EC20042319E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7ADFF8BB1C0F0EC20042319E /* Info.plist */,
+				7ADFF8BC1C0F0EC20042319E /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7ADFF8CD1C0F0EC20042319E /* LianXi11MakeCellTests */ = {
+			isa = PBXGroup;
+			children = (
+				7ADFF8D01C0F0EC20042319E /* LianXi11MakeCellTests.m */,
+				7ADFF8CE1C0F0EC20042319E /* Supporting Files */,
+			);
+			path = LianXi11MakeCellTests;
+			sourceTree = "<group>";
+		};
+		7ADFF8CE1C0F0EC20042319E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7ADFF8CF1C0F0EC20042319E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7ADFF8E01C0F0FA60042319E /* tableViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				7ADFF8E11C0F0FA60042319E /* Audi.png */,
+				7ADFF8E21C0F0FA60042319E /* Bentley.png */,
+				7ADFF8E31C0F0FA60042319E /* BMW.png */,
+				7ADFF8E41C0F0FA60042319E /* Cadillac.png */,
+				7ADFF8E61C0F0FA60042319E /* Ferrari.png */,
+				7ADFF8E71C0F0FA60042319E /* Ford.png */,
+				7ADFF8E81C0F0FA60042319E /* GMC.png */,
+				7ADFF8E91C0F0FA60042319E /* Honda.png */,
+				7ADFF8EA1C0F0FA60042319E /* Lamborghini.png */,
+				7ADFF8EB1C0F0FA60042319E /* Land_Rover.png */,
+				7ADFF8EC1C0F0FA60042319E /* Maserati.png */,
+				7ADFF8ED1C0F0FA60042319E /* Mercedes1.png */,
+				7ADFF8EE1C0F0FA60042319E /* Nisan.png */,
+				7ADFF8EF1C0F0FA60042319E /* Toyota.png */,
+			);
+			path = tableViewCell;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7ADFF8B61C0F0EC20042319E /* LianXi11MakeCell */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7ADFF8D41C0F0EC20042319E /* Build configuration list for PBXNativeTarget "LianXi11MakeCell" */;
+			buildPhases = (
+				7ADFF8B31C0F0EC20042319E /* Sources */,
+				7ADFF8B41C0F0EC20042319E /* Frameworks */,
+				7ADFF8B51C0F0EC20042319E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LianXi11MakeCell;
+			productName = LianXi11MakeCell;
+			productReference = 7ADFF8B71C0F0EC20042319E /* LianXi11MakeCell.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7ADFF8C91C0F0EC20042319E /* LianXi11MakeCellTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7ADFF8D71C0F0EC20042319E /* Build configuration list for PBXNativeTarget "LianXi11MakeCellTests" */;
+			buildPhases = (
+				7ADFF8C61C0F0EC20042319E /* Sources */,
+				7ADFF8C71C0F0EC20042319E /* Frameworks */,
+				7ADFF8C81C0F0EC20042319E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7ADFF8CC1C0F0EC20042319E /* PBXTargetDependency */,
+			);
+			name = LianXi11MakeCellTests;
+			productName = LianXi11MakeCellTests;
+			productReference = 7ADFF8CA1C0F0EC20042319E /* LianXi11MakeCellTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7ADFF8AF1C0F0EC10042319E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "赵佳慧iOS";
+				TargetAttributes = {
+					7ADFF8B61C0F0EC20042319E = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					7ADFF8C91C0F0EC20042319E = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = 7ADFF8B61C0F0EC20042319E;
+					};
+				};
+			};
+			buildConfigurationList = 7ADFF8B21C0F0EC10042319E /* Build configuration list for PBXProject "LianXi11MakeCell" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7ADFF8AE1C0F0EC10042319E;
+			productRefGroup = 7ADFF8B81C0F0EC20042319E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7ADFF8B61C0F0EC20042319E /* LianXi11MakeCell */,
+				7ADFF8C91C0F0EC20042319E /* LianXi11MakeCellTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7ADFF8B51C0F0EC20042319E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ADFF8F81C0F0FA60042319E /* Honda.png in Resources */,
+				7ADFF8F61C0F0FA60042319E /* Ford.png in Resources */,
+				7ADFF8F71C0F0FA60042319E /* GMC.png in Resources */,
+				7ADFF8F01C0F0FA60042319E /* Audi.png in Resources */,
+				7ADFF8FA1C0F0FA60042319E /* Land_Rover.png in Resources */,
+				7ADFF8FD1C0F0FA60042319E /* Nisan.png in Resources */,
+				7ADFF8F51C0F0FA60042319E /* Ferrari.png in Resources */,
+				7ADFF8FC1C0F0FA60042319E /* Mercedes1.png in Resources */,
+				7ADFF8FE1C0F0FA60042319E /* Toyota.png in Resources */,
+				7ADFF8F21C0F0FA60042319E /* BMW.png in Resources */,
+				7ADFF8F91C0F0FA60042319E /* Lamborghini.png in Resources */,
+				7ADFF8F31C0F0FA60042319E /* Cadillac.png in Resources */,
+				7ADFF8F11C0F0FA60042319E /* Bentley.png in Resources */,
+				7ADFF8C51C0F0EC20042319E /* LaunchScreen.xib in Resources */,
+				7ADFF8F41C0F0FA60042319E /* Car.plist in Resources */,
+				7ADFF8C21C0F0EC20042319E /* Images.xcassets in Resources */,
+				7ADFF8FB1C0F0FA60042319E /* Maserati.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7ADFF8C81C0F0EC20042319E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7ADFF8B31C0F0EC20042319E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ADFF8DF1C0F0F8C0042319E /* MangoTableViewCell.m in Sources */,
+				7ADFF8DC1C0F0EE00042319E /* MangoViewController.m in Sources */,
+				7ADFF8C01C0F0EC20042319E /* AppDelegate.m in Sources */,
+				7ADFF8BD1C0F0EC20042319E /* main.m in Sources */,
+				7ADFF9011C0F13860042319E /* MangoModel.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7ADFF8C61C0F0EC20042319E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ADFF8D11C0F0EC20042319E /* LianXi11MakeCellTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7ADFF8CC1C0F0EC20042319E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7ADFF8B61C0F0EC20042319E /* LianXi11MakeCell */;
+			targetProxy = 7ADFF8CB1C0F0EC20042319E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		7ADFF8C31C0F0EC20042319E /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7ADFF8C41C0F0EC20042319E /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7ADFF8D21C0F0EC20042319E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		7ADFF8D31C0F0EC20042319E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7ADFF8D51C0F0EC20042319E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				INFOPLIST_FILE = LianXi11MakeCell/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7ADFF8D61C0F0EC20042319E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				INFOPLIST_FILE = LianXi11MakeCell/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		7ADFF8D81C0F0EC20042319E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = LianXi11MakeCellTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LianXi11MakeCell.app/LianXi11MakeCell";
+			};
+			name = Debug;
+		};
+		7ADFF8D91C0F0EC20042319E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = LianXi11MakeCellTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LianXi11MakeCell.app/LianXi11MakeCell";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7ADFF8B21C0F0EC10042319E /* Build configuration list for PBXProject "LianXi11MakeCell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ADFF8D21C0F0EC20042319E /* Debug */,
+				7ADFF8D31C0F0EC20042319E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7ADFF8D41C0F0EC20042319E /* Build configuration list for PBXNativeTarget "LianXi11MakeCell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ADFF8D51C0F0EC20042319E /* Debug */,
+				7ADFF8D61C0F0EC20042319E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7ADFF8D71C0F0EC20042319E /* Build configuration list for PBXNativeTarget "LianXi11MakeCellTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ADFF8D81C0F0EC20042319E /* Debug */,
+				7ADFF8D91C0F0EC20042319E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7ADFF8AF1C0F0EC10042319E /* Project object */;
+}
